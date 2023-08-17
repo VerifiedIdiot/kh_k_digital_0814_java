@@ -27,5 +27,7 @@ public class ConditionEx1 {
         } else {
             System.out.println(ch + "는 알파벳이 아닙니다.");
         }
+
+
     }
 }
