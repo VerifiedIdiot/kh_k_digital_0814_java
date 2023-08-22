@@ -5,21 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="자 ~ 들어간다 ~">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N개의숫자합/NumberSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/While문/WhileEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/While문/WhileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for반복문/ForEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven배수구하기/MultipleEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/문자열반전/CharacterReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/별찍기연습/StarEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/브루마블/RandomGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/상근이알람/AlarmEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/스퀘어출력/SquareEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/중첩for문/DoubleForEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/회원정보/MemberClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/회원정보/MemberInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/다차원배열/DoubleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/대소문자변환/AlphaChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문자열다루기/Arr_Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문자열다루기/StringMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/배열기본/ArrayBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/배열을이용한정렬/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/배열의복사/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/중복없는로또번호/RandomLotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/참조타입기초/RefType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/커맨드라인/CommandLineEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,23 +54,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/work_java/untitled",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/work_java/untitled&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CharacterReverse">
-    <configuration name="CharacterReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자열반전.CharacterReverse" />
+}</component>
+  <component name="RunManager" selected="Application.RandomLotto">
+    <configuration name="AlphaChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="대소문자변환.AlphaChange" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="문자열반전.*" />
+          <option name="PATTERN" value="대소문자변환.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="회원정보.MemberClass" />
+    <configuration name="Arr_Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자열다루기.Arr_Exercise" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="회원정보.*" />
+          <option name="PATTERN" value="문자열다루기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="N개의숫자합.NumberSum" />
+    <configuration name="ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="배열의복사.ArrayCopy" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="N개의숫자합.*" />
+          <option name="PATTERN" value="배열의복사.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="브루마블.RandomGame" />
+    <configuration name="RandomLotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="중복없는로또번호.RandomLotto" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="브루마블.*" />
+          <option name="PATTERN" value="중복없는로또번호.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="별찍기연습.StarEx1" />
+    <configuration name="StringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자열다루기.StringMethod" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="별찍기연습.*" />
+          <option name="PATTERN" value="문자열다루기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CharacterReverse" />
-        <item itemvalue="Application.NumberSum" />
-        <item itemvalue="Application.MemberClass" />
-        <item itemvalue="Application.RandomGame" />
-        <item itemvalue="Application.StarEx1" />
+        <item itemvalue="Application.RandomLotto" />
+        <item itemvalue="Application.AlphaChange" />
+        <item itemvalue="Application.Arr_Exercise" />
+        <item itemvalue="Application.StringMethod" />
+        <item itemvalue="Application.ArrayCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692315056276</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="자 ~ 들어간다 ~">
+      <option name="closed" value="true" />
+      <created>1692348622911</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692348622911</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
