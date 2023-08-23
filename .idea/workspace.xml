@@ -5,17 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="자 ~ 들어간다 ~">
-      <change afterPath="$PROJECT_DIR$/src/다차원배열/DoubleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/대소문자변환/AlphaChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/문자열다루기/Arr_Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/문자열다루기/StringMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/배열기본/ArrayBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/배열을이용한정렬/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/배열의복사/ArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/중복없는로또번호/RandomLotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/참조타입기초/RefType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/커맨드라인/CommandLineEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KMP/KMPEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC방알바/PcRoomEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/This에대해서/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/This에대해서/ThisRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/객체타입확인/InstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/상속기본/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/상속기본/InheritanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/아이패드만들기/IPadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/아이패드만들기/IPadPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/영화표예매/MovieMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/영화표예매/MovieTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/오버라이딩금지/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/오버라이딩금지/OverLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/오버로딩/Overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/K_Digital_java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +70,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RandomLotto">
-    <configuration name="AlphaChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="대소문자변환.AlphaChange" />
-      <module name="untitled" />
+  <component name="RunManager" selected="Application.PcRoomEx">
+    <configuration name="IPadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="아이패드만들기.IPadMain" />
+      <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="대소문자변환.*" />
+          <option name="PATTERN" value="아이패드만들기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arr_Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자열다루기.Arr_Exercise" />
-      <module name="untitled" />
+    <configuration name="InheritanceEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="상속기본.InheritanceEx" />
+      <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="문자열다루기.*" />
+          <option name="PATTERN" value="상속기본.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="배열의복사.ArrayCopy" />
-      <module name="untitled" />
+    <configuration name="KMPEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KMP.KMPEx" />
+      <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="배열의복사.*" />
+          <option name="PATTERN" value="KMP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomLotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="중복없는로또번호.RandomLotto" />
-      <module name="untitled" />
+    <configuration name="MovieMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="영화표예매.MovieMain" />
+      <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="중복없는로또번호.*" />
+          <option name="PATTERN" value="영화표예매.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자열다루기.StringMethod" />
-      <module name="untitled" />
+    <configuration name="PcRoomEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC방알바.PcRoomEx" />
+      <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="문자열다루기.*" />
+          <option name="PATTERN" value="PC방알바.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomLotto" />
-        <item itemvalue="Application.AlphaChange" />
-        <item itemvalue="Application.Arr_Exercise" />
-        <item itemvalue="Application.StringMethod" />
-        <item itemvalue="Application.ArrayCopy" />
+        <item itemvalue="Application.PcRoomEx" />
+        <item itemvalue="Application.InheritanceEx" />
+        <item itemvalue="Application.IPadMain" />
+        <item itemvalue="Application.KMPEx" />
+        <item itemvalue="Application.MovieMain" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692348622911</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="자 ~ 들어간다 ~">
+      <option name="closed" value="true" />
+      <created>1692748435773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692748435773</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
