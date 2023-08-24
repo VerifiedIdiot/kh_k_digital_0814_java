@@ -5,23 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="자 ~ 들어간다 ~">
-      <change afterPath="$PROJECT_DIR$/src/KMP/KMPEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC방알바/PcRoomEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/This에대해서/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/This에대해서/ThisRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/객체타입확인/InstanceOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/상속기본/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/상속기본/InheritanceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/아이패드만들기/IPadMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/아이패드만들기/IPadPro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/영화표예매/MovieMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/영화표예매/MovieTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/오버라이딩금지/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/오버라이딩금지/OverLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/오버로딩/Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/나머지구하기/ModEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/다형성기본/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/다형성기본/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/다형성기본/PolyBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/매개변수다형성2/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/매개변수다형성2/DriverMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/매개변수다형성2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/매개변수의다형성1/Buyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/매개변수의다형성1/BuyerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/매개변수의다형성1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/번호판만들기/AddressCreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/상속TV/InheritanceTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/상속TV/PrototypeTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/슈퍼메소드/SuperMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/K_Digital_java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,23 +58,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/work_java/untitled&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/work_java/K_Digital_java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.PcRoomEx">
-    <configuration name="IPadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="아이패드만들기.IPadMain" />
+}]]></component>
+  <component name="RunManager" selected="Application.ModEx">
+    <configuration name="AddressCreater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="번호판만들기.AddressCreater" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="아이패드만들기.*" />
+          <option name="PATTERN" value="번호판만들기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="상속기본.InheritanceEx" />
+    <configuration name="InheritanceTv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="상속TV.InheritanceTv" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="상속기본.*" />
+          <option name="PATTERN" value="상속TV.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KMPEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KMP.KMPEx" />
+    <configuration name="ModEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="나머지구하기.ModEx" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KMP.*" />
+          <option name="PATTERN" value="나머지구하기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="영화표예매.MovieMain" />
+    <configuration name="PolyBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="다형성기본.PolyBasic" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="영화표예매.*" />
+          <option name="PATTERN" value="다형성기본.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PcRoomEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PC방알바.PcRoomEx" />
+    <configuration name="SuperMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="슈퍼메소드.SuperMethod" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PC방알바.*" />
+          <option name="PATTERN" value="슈퍼메소드.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PcRoomEx" />
-        <item itemvalue="Application.InheritanceEx" />
-        <item itemvalue="Application.IPadMain" />
-        <item itemvalue="Application.KMPEx" />
-        <item itemvalue="Application.MovieMain" />
+        <item itemvalue="Application.ModEx" />
+        <item itemvalue="Application.AddressCreater" />
+        <item itemvalue="Application.SuperMethod" />
+        <item itemvalue="Application.PolyBasic" />
+        <item itemvalue="Application.InheritanceTv" />
       </list>
     </recent_temporary>
   </component>
