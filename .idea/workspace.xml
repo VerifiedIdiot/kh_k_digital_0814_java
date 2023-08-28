@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="자 ~ 들어간다 ~">
-      <change afterPath="$PROJECT_DIR$/src/객체를배열로관리/NameCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/객체를배열로관리/ObjectArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/다운캐스팅/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/다운캐스팅/DownCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자동만들기실습final/AbstractCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자동만들기실습final/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자동차만들기실습/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자동차만들기실습/CarFactoringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자동차만들기실습/CarTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자동차만들기실습/Sedan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자동차만들기실습/SportsCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자동차만들기실습보완/AbstractCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자동차만들기실습보완/CarFactoringMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/인터페이스실습/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/인터페이스실습/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="자 ~ 들어간다 ~" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692748435773</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="자 ~ 들어간다 ~">
+      <option name="closed" value="true" />
+      <created>1693221788705</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693221788705</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
