@@ -4,36 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="자 ~ 들어간다 ~">
-      <change afterPath="$PROJECT_DIR$/src/Arrays검색/ArraysSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays클래스/ArraysClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays클래스/ArraysSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math클래스/MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object클래스/CloneObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object클래스/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object클래스/ObjectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/날짜와시간/DateAndCal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/다중인터페이스상속/AirCon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/다중인터페이스상속/AutoDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/다중인터페이스상속/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/다중인터페이스상속/MultiInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/다중인터페이스상속/SportsCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/디폴트메소드중복/Buy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/디폴트메소드중복/DefaultDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/박싱과언박싱/BoxingMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/스트링다루기/StringBufferEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/열거타입/EnumType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/열거타입2/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/열거타입2/EnumTypeEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/익명객체/AnonymousObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/인터페이스활용/Buy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/인터페이스활용/InterfaceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/중첩인터페이스/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/중첩인터페이스/CallListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/중첩인터페이스/DoubleInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/중첩인터페이스/MessageListener.java" afterDir="false" />
+    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="3주 2일차">
+      <change afterPath="$PROJECT_DIR$/src/List인터페이스/ArrayListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List인터페이스/ListEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/System클래스/SystemClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector클래스/VectorClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X보다작은수/LessThanX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/스트링토커나이저/StringToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/제네릭기본형/GenericBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/제네릭연습1/GenericEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/제네릭연습1/GenericEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/제네릭연습1/GenericPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/홀짝나눠담기/OddEvenArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/추상클래스두번째/SmartMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/추상클래스두번째/SmartMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,26 +56,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/work_java/K_Digital_java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "copyright"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/work_java/K_Digital_java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ArraysSearch">
-    <configuration name="ArraysClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays클래스.ArraysClass" />
+}</component>
+  <component name="RunManager" selected="Application.LessThanX">
+    <configuration name="ArrayListEx (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List인터페이스.ArrayListEx" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays클래스.*" />
+          <option name="PATTERN" value="List인터페이스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays검색.ArraysSearch" />
+    <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List인터페이스.ArrayListEx" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays검색.*" />
+          <option name="PATTERN" value="List인터페이스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="박싱과언박싱.BoxingMain" />
+    <configuration name="LessThanX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="X보다작은수.LessThanX" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="박싱과언박싱.*" />
+          <option name="PATTERN" value="X보다작은수.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateAndCal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="날짜와시간.DateAndCal" />
+    <configuration name="ListEX1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List인터페이스.ListEX1" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="날짜와시간.*" />
+          <option name="PATTERN" value="List인터페이스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumTypeEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="열거타입2.EnumTypeEx2" />
+    <configuration name="OddEvenArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="홀짝나눠담기.OddEvenArray" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="열거타입2.*" />
+          <option name="PATTERN" value="홀짝나눠담기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArraysSearch" />
-        <item itemvalue="Application.ArraysClass" />
-        <item itemvalue="Application.DateAndCal" />
-        <item itemvalue="Application.BoxingMain" />
-        <item itemvalue="Application.EnumTypeEx2" />
+        <item itemvalue="Application.LessThanX" />
+        <item itemvalue="Application.OddEvenArray" />
+        <item itemvalue="Application.ArrayListEx (1)" />
+        <item itemvalue="Application.ArrayListEx" />
+        <item itemvalue="Application.ListEX1" />
       </list>
     </recent_temporary>
   </component>
@@ -227,12 +210,32 @@
       <option name="project" value="LOCAL" />
       <updated>1693221868378</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="3주 2일차">
+      <option name="closed" value="true" />
+      <created>1693300337384</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693300337384</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="자 ~ 들어간다 ~" />
-    <option name="LAST_COMMIT_MESSAGE" value="자 ~ 들어간다 ~" />
+    <MESSAGE value="3주 2일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="3주 2일차" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/Object.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
