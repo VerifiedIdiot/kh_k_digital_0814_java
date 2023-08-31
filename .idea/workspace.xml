@@ -5,17 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="3주 2일차">
-      <change afterPath="$PROJECT_DIR$/src/List인터페이스/ArrayListEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List인터페이스/ListEX1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/System클래스/SystemClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector클래스/VectorClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/X보다작은수/LessThanX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/스트링토커나이저/StringToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/제네릭기본형/GenericBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/제네릭연습1/GenericEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/제네릭연습1/GenericEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/제네릭연습1/GenericPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/홀짝나눠담기/OddEvenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/단어정렬하기/WordClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/단어정렬하기/WordComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/단어정렬하기/WordSortEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/커피메뉴만들기HashMap/CoffeeMenuList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/커피메뉴만들기HashMap/MenuInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/컴페어러블_중요/CarComp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/컴페어러블_중요/ComparableEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/컴페어레이터_중요/ComparatorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/컴페어레이터_중요/DescendingComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/컴페어레이터_중요/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/트리셋/TreeSetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/프로퍼티/PropertiesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/프로퍼티/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/학생성적정렬/GradesComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/학생성적정렬/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/학생성적정렬/StudentSortEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/해시맵기본/HashBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/해시셋/HashSetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/해시셋객체비교/HashSetEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/해시함수만들기/HashFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +52,7 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="b64ae09d-09ad-44cc-a98e-4a047209df6b" />
+        <option name="accountId" value="80e3240e-6d2f-49b4-a0cb-7781a17afb19" />
         <option name="url" value="https://github.com/VerifiedIdiot/kh_k_digital_0814_java.git" />
       </UrlAndAccount>
     </option>
@@ -69,13 +78,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LessThanX">
-    <configuration name="ArrayListEx (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List인터페이스.ArrayListEx" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work_java\K_Digital_java\src\프로퍼티" />
+      <recent name="D:\work_java\K_Digital_java\src\커피메뉴만들기HashMap" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="해시셋객체비교" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WordSortEx">
+    <configuration name="ComparableEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="컴페어러블_중요.ComparableEx" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="List인터페이스.*" />
+          <option name="PATTERN" value="컴페어러블_중요.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List인터페이스.ArrayListEx" />
+    <configuration name="ComparatorEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="컴페어레이터_중요.ComparatorEx" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="List인터페이스.*" />
+          <option name="PATTERN" value="컴페어레이터_중요.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LessThanX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="X보다작은수.LessThanX" />
+    <configuration name="StudentSortEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="학생성적정렬.StudentSortEx" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="X보다작은수.*" />
+          <option name="PATTERN" value="학생성적정렬.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListEX1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List인터페이스.ListEX1" />
+    <configuration name="TreeSetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="트리셋.TreeSetMain" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="List인터페이스.*" />
+          <option name="PATTERN" value="트리셋.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="홀짝나눠담기.OddEvenArray" />
+    <configuration name="WordSortEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="단어정렬하기.WordSortEx" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="홀짝나눠담기.*" />
+          <option name="PATTERN" value="단어정렬하기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LessThanX" />
-        <item itemvalue="Application.OddEvenArray" />
-        <item itemvalue="Application.ArrayListEx (1)" />
-        <item itemvalue="Application.ArrayListEx" />
-        <item itemvalue="Application.ListEX1" />
+        <item itemvalue="Application.WordSortEx" />
+        <item itemvalue="Application.StudentSortEx" />
+        <item itemvalue="Application.ComparatorEx" />
+        <item itemvalue="Application.ComparableEx" />
+        <item itemvalue="Application.TreeSetMain" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693300337384</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="3주 2일차">
+      <option name="closed" value="true" />
+      <created>1693385330774</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693385330774</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
