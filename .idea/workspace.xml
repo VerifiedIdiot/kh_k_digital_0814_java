@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="3주 4일차">
+    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="3주 5일차 오전">
+      <change afterPath="$PROJECT_DIR$/src/스택기본/StackBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/스택연습문제/StackMainEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/쓰레드예제1번/ThreadMainEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/쓰레드예제2/ThMainEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/쓰레드예제3/ThMainEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/쓰레드예제4번/ThMainEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/쓰레드예제5번/ThMainEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/입력한명령어이력조회/CommandHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/전자레인지최소조작/MicroWaveMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/단어정렬하기/WordClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/단어정렬하기/WordClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/단어정렬하기/WordSortEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/단어정렬하기/WordSortEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/상속TV/InheritanceTv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/상속TV/InheritanceTv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/상속TV/PrototypeTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/상속TV/PrototypeTV.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +76,13 @@
       <recent name="해시셋객체비교" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordSortEx">
-    <configuration name="ComparableEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="컴페어러블_중요.ComparableEx" />
+  <component name="RunManager" selected="Application.ThMainEx5">
+    <configuration name="ThMainEx2 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="쓰레드예제2.ThMainEx2" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="컴페어러블_중요.*" />
+          <option name="PATTERN" value="쓰레드예제2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparatorEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="컴페어레이터_중요.ComparatorEx" />
+    <configuration name="ThMainEx2 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="쓰레드예제2.ThMainEx2" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="컴페어레이터_중요.*" />
+          <option name="PATTERN" value="쓰레드예제2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentSortEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="학생성적정렬.StudentSortEx" />
+    <configuration name="ThMainEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="쓰레드예제3.ThMainEx3" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="학생성적정렬.*" />
+          <option name="PATTERN" value="쓰레드예제3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="트리셋.TreeSetMain" />
+    <configuration name="ThMainEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="쓰레드예제4번.ThMainEx4" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="트리셋.*" />
+          <option name="PATTERN" value="쓰레드예제4번.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordSortEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="단어정렬하기.WordSortEx" />
+    <configuration name="ThMainEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="쓰레드예제5번.ThMainEx5" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="단어정렬하기.*" />
+          <option name="PATTERN" value="쓰레드예제5번.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordSortEx" />
-        <item itemvalue="Application.StudentSortEx" />
-        <item itemvalue="Application.ComparatorEx" />
-        <item itemvalue="Application.ComparableEx" />
-        <item itemvalue="Application.TreeSetMain" />
+        <item itemvalue="Application.ThMainEx5" />
+        <item itemvalue="Application.ThMainEx4" />
+        <item itemvalue="Application.ThMainEx3" />
+        <item itemvalue="Application.ThMainEx2 (4)" />
+        <item itemvalue="Application.ThMainEx2 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -236,14 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693473203752</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="3주 5일차 오전">
+      <option name="closed" value="true" />
+      <created>1693527743052</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693527743052</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="자 ~ 들어간다 ~" />
     <MESSAGE value="3주 2일차" />
     <MESSAGE value="3주 4일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="3주 4일차" />
+    <MESSAGE value="3주 5일차 오전" />
+    <option name="LAST_COMMIT_MESSAGE" value="3주 5일차 오전" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
