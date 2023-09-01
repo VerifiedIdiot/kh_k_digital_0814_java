@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="3주 5일차 오전">
-      <change afterPath="$PROJECT_DIR$/src/스택기본/StackBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/스택연습문제/StackMainEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/쓰레드예제1번/ThreadMainEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/쓰레드예제2/ThMainEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/쓰레드예제3/ThMainEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/쓰레드예제4번/ThMainEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/쓰레드예제5번/ThMainEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/입력한명령어이력조회/CommandHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/전자레인지최소조작/MicroWaveMain.java" afterDir="false" />
+    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="3주 5일차 오후">
+      <change afterPath="$PROJECT_DIR$/src/게임만들기예제/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/게임만들기예제/GameMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/게임만들기예제/GameThA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/게임만들기예제/GameThB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/게임만들기예제/Unit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -249,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693527743052</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="3주 5일차 오후">
+      <option name="closed" value="true" />
+      <created>1693556391953</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693556391953</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -257,7 +261,8 @@
     <MESSAGE value="3주 2일차" />
     <MESSAGE value="3주 4일차" />
     <MESSAGE value="3주 5일차 오전" />
-    <option name="LAST_COMMIT_MESSAGE" value="3주 5일차 오전" />
+    <MESSAGE value="3주 5일차 오후" />
+    <option name="LAST_COMMIT_MESSAGE" value="3주 5일차 오후" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
