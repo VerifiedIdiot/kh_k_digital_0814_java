@@ -3,7 +3,7 @@ package 단어정렬하기;
 public class WordClass {
     String word;
     int length;
-
+    String n;
     public WordClass(String word, int length) {
         this.word = word;
         this.length = length;
@@ -14,4 +14,5 @@ public class WordClass {
     }
 
 
-}
+    }
+

@@ -4,28 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="3주 2일차">
-      <change afterPath="$PROJECT_DIR$/src/단어정렬하기/WordClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/단어정렬하기/WordComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/단어정렬하기/WordSortEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/커피메뉴만들기HashMap/CoffeeMenuList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/커피메뉴만들기HashMap/MenuInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/컴페어러블_중요/CarComp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/컴페어러블_중요/ComparableEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/컴페어레이터_중요/ComparatorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/컴페어레이터_중요/DescendingComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/컴페어레이터_중요/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/트리셋/TreeSetMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/프로퍼티/PropertiesMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/프로퍼티/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/학생성적정렬/GradesComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/학생성적정렬/StudentGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/학생성적정렬/StudentSortEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/해시맵기본/HashBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/해시셋/HashSetMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/해시셋객체비교/HashSetEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/해시함수만들기/HashFunction.java" afterDir="false" />
+    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="3주 4일차">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/단어정렬하기/WordClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/단어정렬하기/WordClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/단어정렬하기/WordSortEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/단어정렬하기/WordSortEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/상속TV/InheritanceTv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/상속TV/InheritanceTv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/상속TV/PrototypeTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/상속TV/PrototypeTV.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,13 +228,22 @@
       <option name="project" value="LOCAL" />
       <updated>1693385330774</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="3주 4일차">
+      <option name="closed" value="true" />
+      <created>1693473203752</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693473203752</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="자 ~ 들어간다 ~" />
     <MESSAGE value="3주 2일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="3주 2일차" />
+    <MESSAGE value="3주 4일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="3주 4일차" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

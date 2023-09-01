@@ -26,16 +26,20 @@ public class WordSortEx {
             treeSet.add(new WordClass(word ,word.length()));
 
         }
+
         for (WordClass wordClass : treeSet) {
             System.out.print(wordClass + " ");
         }
+
         System.out.println();
 
         for (WordClass e : treeSet) {
             System.out.println(e.word + " : " + e.length);
 
         }
+
     }
+
 }
 
 
