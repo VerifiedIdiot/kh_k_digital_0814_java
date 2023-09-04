@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="3주 5일차 오후">
-      <change afterPath="$PROJECT_DIR$/src/게임만들기예제/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/게임만들기예제/GameMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/게임만들기예제/GameThA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/게임만들기예제/GameThB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/게임만들기예제/Unit.java" afterDir="false" />
+    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="3주 5일차 저녁">
+      <change afterPath="$PROJECT_DIR$/src/매개변수람다식/LambdaEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/메소드참조/MethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/메소드참조2번/MethodRefEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/사용자정의예외클래스/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/스트림예제1번/StreamEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/예외처리/ExceptionBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/예외처리/ExceptionEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/예외처리/ExceptionEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/예외처리/ExceptionEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/예외처리/ExceptionEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/함수형프로그래밍/FuncTypeEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +78,13 @@
       <recent name="해시셋객체비교" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThMainEx5">
-    <configuration name="ThMainEx2 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="쓰레드예제2.ThMainEx2" />
+  <component name="RunManager" selected="Application.FuncTypeEx">
+    <configuration name="ExceptionBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="예외처리.ExceptionBasic" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="쓰레드예제2.*" />
+          <option name="PATTERN" value="예외처리.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThMainEx2 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="쓰레드예제2.ThMainEx2" />
+    <configuration name="ExceptionEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="예외처리.ExceptionEx3" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="쓰레드예제2.*" />
+          <option name="PATTERN" value="예외처리.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThMainEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="쓰레드예제3.ThMainEx3" />
+    <configuration name="ExceptionEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="예외처리.ExceptionEx4" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="쓰레드예제3.*" />
+          <option name="PATTERN" value="예외처리.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThMainEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="쓰레드예제4번.ThMainEx4" />
+    <configuration name="FuncTypeEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="함수형프로그래밍.FuncTypeEx" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="쓰레드예제4번.*" />
+          <option name="PATTERN" value="함수형프로그래밍.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FuncTypeEx" />
+        <item itemvalue="Application.ExceptionEx4" />
+        <item itemvalue="Application.ExceptionEx3" />
+        <item itemvalue="Application.ExceptionBasic" />
         <item itemvalue="Application.ThMainEx5" />
-        <item itemvalue="Application.ThMainEx4" />
-        <item itemvalue="Application.ThMainEx3" />
-        <item itemvalue="Application.ThMainEx2 (4)" />
-        <item itemvalue="Application.ThMainEx2 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693556391953</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="3주 5일차 저녁">
+      <option name="closed" value="true" />
+      <created>1693568824156</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693568824156</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -262,7 +276,8 @@
     <MESSAGE value="3주 4일차" />
     <MESSAGE value="3주 5일차 오전" />
     <MESSAGE value="3주 5일차 오후" />
-    <option name="LAST_COMMIT_MESSAGE" value="3주 5일차 오후" />
+    <MESSAGE value="3주 5일차 저녁" />
+    <option name="LAST_COMMIT_MESSAGE" value="3주 5일차 저녁" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
