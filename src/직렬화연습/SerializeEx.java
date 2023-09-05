@@ -39,7 +39,7 @@ public class SerializeEx {
         }
         public static List<Board> readList() {
             try {
-                FileInputStream fis = new FileInputStream("board.db")
+                FileInputStream fis = new FileInputStream("board.db");
                 ObjectInputStream ois = new ObjectInputStream(fis);
                 List<Board> list = (List<Board>) ois.readObject();
                 return list;
