@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="4주 1일차 오전">
-      <change afterPath="$PROJECT_DIR$/src/문자스트림/ByteStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/바이트스트림/ByteStreamEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/스트림예제2번/Stream2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/스트림예제3번/StreamEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/스트림예제3번/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/스트림중개연산/StreamEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/스트림최종연산/StreamEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/스트림최종예제/StreamFinalEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/직렬화연습/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/직렬화연습/SerializeEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/스트림예제1번/StreamEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/스트림예제1번/StreamEx1.java" afterDir="false" />
+    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="4주 2일차 오후">
+      <change beforePath="$PROJECT_DIR$/src/직렬화연습/SerializeEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/직렬화연습/SerializeEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +264,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693805240985</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="4주 2일차 오후">
+      <option name="closed" value="true" />
+      <created>1693902672036</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693902672036</updated>
+    </task>
+    <task id="LOCAL-00016" summary="4주 2일차 오후">
+      <option name="closed" value="true" />
+      <created>1693902703229</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1693902703229</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,7 +291,8 @@
     <MESSAGE value="3주 5일차 오후" />
     <MESSAGE value="3주 5일차 저녁" />
     <MESSAGE value="4주 1일차 오전" />
-    <option name="LAST_COMMIT_MESSAGE" value="4주 1일차 오전" />
+    <MESSAGE value="4주 2일차 오후" />
+    <option name="LAST_COMMIT_MESSAGE" value="4주 2일차 오후" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
