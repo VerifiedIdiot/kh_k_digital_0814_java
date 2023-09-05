@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="4주 2일차 오후">
-      <change beforePath="$PROJECT_DIR$/src/직렬화연습/SerializeEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/직렬화연습/SerializeEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693902703229</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="4주 2일차 오후">
+      <option name="closed" value="true" />
+      <created>1693903573392</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1693903573392</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
