@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="3주 5일차 저녁">
-      <change afterPath="$PROJECT_DIR$/src/매개변수람다식/LambdaEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/메소드참조/MethodRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/메소드참조2번/MethodRefEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/사용자정의예외클래스/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/스트림예제1번/StreamEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/예외처리/ExceptionBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/예외처리/ExceptionEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/예외처리/ExceptionEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/예외처리/ExceptionEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/예외처리/ExceptionEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/함수형프로그래밍/FuncTypeEx.java" afterDir="false" />
+    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="4주 1일차 오전">
+      <change afterPath="$PROJECT_DIR$/src/문자스트림/ByteStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/바이트스트림/ByteStreamEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/스트림예제2번/Stream2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/스트림예제3번/StreamEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/스트림예제3번/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/스트림중개연산/StreamEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/스트림최종연산/StreamEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/스트림최종예제/StreamFinalEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/직렬화연습/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/직렬화연습/SerializeEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/스트림예제1번/StreamEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/스트림예제1번/StreamEx1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +78,13 @@
       <recent name="해시셋객체비교" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FuncTypeEx">
-    <configuration name="ExceptionBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="예외처리.ExceptionBasic" />
+  <component name="RunManager" selected="Application.StreamFinalEx">
+    <configuration name="Stream2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="스트림예제2번.Stream2" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="예외처리.*" />
+          <option name="PATTERN" value="스트림예제2번.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="예외처리.ExceptionEx3" />
+    <configuration name="StreamEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="스트림예제1번.StreamEx1" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="예외처리.*" />
+          <option name="PATTERN" value="스트림예제1번.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="예외처리.ExceptionEx4" />
+    <configuration name="StreamEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="스트림예제3번.StreamEx3" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="예외처리.*" />
+          <option name="PATTERN" value="스트림예제3번.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncTypeEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="함수형프로그래밍.FuncTypeEx" />
+    <configuration name="StreamEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="스트림최종연산.StreamEx5" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="함수형프로그래밍.*" />
+          <option name="PATTERN" value="스트림최종연산.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThMainEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="쓰레드예제5번.ThMainEx5" />
+    <configuration name="StreamFinalEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="스트림최종예제.StreamFinalEx" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="쓰레드예제5번.*" />
+          <option name="PATTERN" value="스트림최종예제.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FuncTypeEx" />
-        <item itemvalue="Application.ExceptionEx4" />
-        <item itemvalue="Application.ExceptionEx3" />
-        <item itemvalue="Application.ExceptionBasic" />
-        <item itemvalue="Application.ThMainEx5" />
+        <item itemvalue="Application.StreamFinalEx" />
+        <item itemvalue="Application.StreamEx5" />
+        <item itemvalue="Application.StreamEx3" />
+        <item itemvalue="Application.Stream2" />
+        <item itemvalue="Application.StreamEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693568824156</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="4주 1일차 오전">
+      <option name="closed" value="true" />
+      <created>1693805240985</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693805240985</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -277,7 +285,8 @@
     <MESSAGE value="3주 5일차 오전" />
     <MESSAGE value="3주 5일차 오후" />
     <MESSAGE value="3주 5일차 저녁" />
-    <option name="LAST_COMMIT_MESSAGE" value="3주 5일차 저녁" />
+    <MESSAGE value="4주 1일차 오전" />
+    <option name="LAST_COMMIT_MESSAGE" value="4주 1일차 오전" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
