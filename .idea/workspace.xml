@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="4주 2일차 오후">
+    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="4주 2일차 저녁">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -288,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693903573392</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="4주 2일차 오후">
+      <option name="closed" value="true" />
+      <created>1693910642785</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1693910642785</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
