@@ -9,6 +9,8 @@ import java.util.List;
 
 // 직렬화 : 객체를 출력하기 위해서는 일렬로 연속적인 바이트로 변경
 public class SerializeEx {
+
+
     public static void main(String[] args) {
         writeList();
         List<Board> list = readList();

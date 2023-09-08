@@ -4,8 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="4주 2일차 저녁">
+    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="4주 3일차 오전 파이썬 자바 깃허브 연동 병행 테스트">
+      <change afterPath="$PROJECT_DIR$/src/Receipt/CostcoIsSoExpensive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/가장많이사용한알파벳구하기알고리즘/AlphabetVerifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/두수비교하기/TwoDifferentNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준구구단알고리즘/multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준알고리즘A더하기B는/CalAandB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준알고리즘별찍기1/printingStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준알고리즘별찍기2/PrintingStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준알고리즘별찍기3/PrintingStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준알고리즘별찍기5/PrintingStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준알고리즘여러숫자의합/SumTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/손익분기점알고리즘/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/시험성적/gradeVerifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/암호체크알고리즘/PasswordChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/암호체크알고리즘/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/태국에서는1998년생이2541년생/Thailand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/직렬화연습/SerializeEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/직렬화연습/SerializeEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +71,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -67,13 +83,13 @@
       <recent name="해시셋객체비교" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamFinalEx">
-    <configuration name="Stream2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="스트림예제2번.Stream2" />
+  <component name="RunManager" selected="Application.백준알고리즘별찍기5.PrintingStars">
+    <configuration name="백준알고리즘별찍기3.PrintingStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준알고리즘별찍기3.PrintingStars" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="스트림예제2번.*" />
+          <option name="PATTERN" value="백준알고리즘별찍기3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="스트림예제1번.StreamEx1" />
+    <configuration name="백준알고리즘별찍기5.PrintingStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준알고리즘별찍기5.PrintingStars" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="스트림예제1번.*" />
+          <option name="PATTERN" value="백준알고리즘별찍기5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="스트림예제3번.StreamEx3" />
+    <configuration name="CostcoIsSoExpensive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Receipt.CostcoIsSoExpensive" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="스트림예제3번.*" />
+          <option name="PATTERN" value="Receipt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="스트림최종연산.StreamEx5" />
+    <configuration name="PrintingStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준알고리즘별찍기2.PrintingStars" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="스트림최종연산.*" />
+          <option name="PATTERN" value="백준알고리즘별찍기2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamFinalEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="스트림최종예제.StreamFinalEx" />
+    <configuration name="printingStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준알고리즘별찍기1.printingStars" />
       <module name="K_Digital_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="스트림최종예제.*" />
+          <option name="PATTERN" value="백준알고리즘별찍기1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamFinalEx" />
-        <item itemvalue="Application.StreamEx5" />
-        <item itemvalue="Application.StreamEx3" />
-        <item itemvalue="Application.Stream2" />
-        <item itemvalue="Application.StreamEx1" />
+        <item itemvalue="Application.백준알고리즘별찍기5.PrintingStars" />
+        <item itemvalue="Application.printingStars" />
+        <item itemvalue="Application.백준알고리즘별찍기3.PrintingStars" />
+        <item itemvalue="Application.PrintingStars" />
+        <item itemvalue="Application.CostcoIsSoExpensive" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693910642785</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="4주 3일차 오전 파이썬 자바 깃허브 연동 병행 테스트">
+      <option name="closed" value="true" />
+      <created>1693966183363</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1693966183363</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -308,7 +332,8 @@
     <MESSAGE value="3주 5일차 저녁" />
     <MESSAGE value="4주 1일차 오전" />
     <MESSAGE value="4주 2일차 오후" />
-    <option name="LAST_COMMIT_MESSAGE" value="4주 2일차 오후" />
+    <MESSAGE value="4주 3일차 오전 파이썬 자바 깃허브 연동 병행 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="4주 3일차 오전 파이썬 자바 깃허브 연동 병행 테스트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
