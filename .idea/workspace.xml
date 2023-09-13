@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="4주 3일차 오전 파이썬 자바 깃허브 연동 병행 테스트">
-      <change afterPath="$PROJECT_DIR$/src/Receipt/CostcoIsSoExpensive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/가장많이사용한알파벳구하기알고리즘/AlphabetVerifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/두수비교하기/TwoDifferentNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준구구단알고리즘/multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준알고리즘A더하기B는/CalAandB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준알고리즘별찍기1/printingStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준알고리즘별찍기2/PrintingStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준알고리즘별찍기3/PrintingStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준알고리즘별찍기5/PrintingStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준알고리즘여러숫자의합/SumTotal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/손익분기점알고리즘/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/시험성적/gradeVerifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/암호체크알고리즘/PasswordChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/암호체크알고리즘/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/태국에서는1998년생이2541년생/Thailand.java" afterDir="false" />
+    <list default="true" id="19689d25-643a-479b-b40e-6767617df3e4" name="Changes" comment="23년_09_08 개인공부 (백준알고리즘)">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/직렬화연습/SerializeEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/직렬화연습/SerializeEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/백준알고리즘별찍기5/PrintingStars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준알고리즘별찍기5/PrintingStars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,19 +47,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/work_java/K_Digital_java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/work_oracle",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\work_java\K_Digital_java\src\프로퍼티" />
@@ -320,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693966183363</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="23년_09_08 개인공부 (백준알고리즘)">
+      <option name="closed" value="true" />
+      <created>1694172699494</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1694172699494</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -333,7 +327,8 @@
     <MESSAGE value="4주 1일차 오전" />
     <MESSAGE value="4주 2일차 오후" />
     <MESSAGE value="4주 3일차 오전 파이썬 자바 깃허브 연동 병행 테스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="4주 3일차 오전 파이썬 자바 깃허브 연동 병행 테스트" />
+    <MESSAGE value="23년_09_08 개인공부 (백준알고리즘)" />
+    <option name="LAST_COMMIT_MESSAGE" value="23년_09_08 개인공부 (백준알고리즘)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
